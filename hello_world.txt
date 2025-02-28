@@ -1,3 +1,5 @@
 hello odin
 I was inpired by David Webb
-Hope I can made it
+Hope I can made it.
+
+I want to build a website for showing stock indicators.
